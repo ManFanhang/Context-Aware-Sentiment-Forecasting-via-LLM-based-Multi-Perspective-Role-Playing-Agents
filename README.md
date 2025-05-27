@@ -1,2 +1,5 @@
-# Anonymous
-This is an anonymous repository for ARR submission. It contains the details of the developed method for the paper. It would be organized further with more support files and data.
+# Context-Aware-Sentiment-Forecasting-via-LLM-based-Multi-Perspective-Role-Playing-Agents
+
+## Abstract
+User sentiment on social media reveals the underlying social trends, crises, and needs. Researchers have analyzed users' past messages to trace the evolution of sentiments and reconstruct sentiment dynamics. However, predicting the imminent sentiment of an ongoing event is rarely studied. In this paper, we address the problem of \textbf{sentiment forecasting} on social media to predict the user's future sentiment in response to the development of the event. We extract sentiment-related features to enhance the modeling skill and propose the multi-perspective role-playing framework to simulate the process of human response. Our preliminary results show significant improvement in sentiment forecasting on both microscopic and macroscopic levels.
+
