@@ -5,4 +5,4 @@ User sentiment on social media reveals the underlying social trends, crises, and
 ![Methodology_Mar_v0 5](https://github.com/user-attachments/assets/b6f631ab-3317-4436-9ad3-b305f11cfa56)
 
 ## Implementations
-The fine-tune process could refer to Fine-tuning. For the full instructions and the role-playing process, please refer to the Experiment Folder. To measure the accuracy and JSD, please refer to the Evaluations Folder.
+The fine-tune process and the tokenizers could refer to Fine-tuning. For the full instructions and the role-playing process, please refer to the Experiment Folder. To measure the accuracy and JSD, please refer to the Evaluations Folder.
